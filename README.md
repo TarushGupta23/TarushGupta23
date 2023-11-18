@@ -9,10 +9,10 @@
 
 - 📫 How to reach me **tarush23.gupta@gmail.com**
 
-- ⚡️ Fun Fact **I can turn caffeine into code faster than most people can turn it into a cup of coffee. ☕💻 #CodeMagician**
+- ⚡️ Fun Fact- **I can turn caffeine into code faster than most people can turn it into a cup of coffee. ☕💻 #CodeMagician**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left" style="display: inline">Connect with me:</h3>
+<p style="display: inline">
 <a href="https://linkedin.com/in/tarush23-gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarush23-gupta" height="30" width="40" /></a>
 </p>
 
