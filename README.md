@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tarush Gupta</h1>
+<p align="center"> <img src="https://raw.githubusercontent.com/TarushGupta23/TarushGupta23/main/banner2.gif" alt="tarushgupta23" width="100%"/> </p>
 <h3 align="center">A passionate Programmer from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tarushgupta23&label=Profile%20views&color=0e75b6&style=flat" alt="tarushgupta23" /> </p>
