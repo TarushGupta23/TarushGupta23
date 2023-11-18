@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tarush Gupta</h1>
 <h3 align="center">A passionate Programmer from India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tarushgupta23&label=Profile%20views&color=0e75b6&style=flat" alt="tarushgupta23" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarushgupta23&label=Profile%20views&color=0e75b6&style=flat" alt="tarushgupta23" /> </p>
 
 - 🌱 I’m currently learning **React js**
 
@@ -9,10 +9,10 @@
 
 - 📫 How to reach me **tarush23.gupta@gmail.com**
 
-- ⚡️ Fun Fact- **I can turn caffeine into code faster than most people can turn it into a cup of coffee. ☕💻 #CodeMagician**
+- ⚡️ Fun Fact - **I can turn caffeine into code faster than most people can turn it into a cup of coffee. ☕💻 #CodeMagician**
 
-<h3 align="left" style="display: inline">Connect with me:</h3>
-<p style="display: inline">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://linkedin.com/in/tarush23-gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarush23-gupta" height="30" width="40" /></a>
 </p>
 
