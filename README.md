@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tarush Gupta</h1>
 <h3 align="center">A passionate Programmer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarushgupta23&label=Profile%20views&color=0e75b6&style=flat" alt="tarushgupta23" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tarushgupta23&label=Profile%20views&color=0e75b6&style=flat" alt="tarushgupta23" /> </p>
 
 - 🌱 I’m currently learning **React js**
 
