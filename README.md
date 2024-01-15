@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Arduino**
 
-- 💬 Ask me about **Java, Android Studio, React Development**
+- 💬 Ask me about **Java, Android Development, React.js Web Development**
 
 - 📫 How to reach me **tarush23.gupta@gmail.com**
 
