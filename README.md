@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tarushgupta23&label=Profile%20views&color=0e75b6&style=flat" alt="tarushgupta23" /> </p>
 <img align="right" alt="coding" width="400" src="https://github.com/TarushGupta23/TarushGupta23/blob/main/sideImg.gif">
 
-- 🌱 I’m currently learning **Arduino**
+- 🌱 I’m currently working on **new Projects**
 
 - 💬 Ask me about **Java, Android Development, React.js Web Development**
 
