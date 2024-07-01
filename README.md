@@ -19,6 +19,16 @@
 ```
 </p>
 
+<br/>
+
+<h1>Top Repositories</h2>
+<p align="center">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TarushGupta23&repo=MyPages&theme=dracula" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TarushGupta23&repo=X-change&theme=dracula" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TarushGupta23&repo=atlas_game&theme=dracula" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TarushGupta23&repo=Parking-management-system&theme=dracula" />
+</p>
+
 <br />
 
 <img align="right" alt="coding" width="400" src="https://github.com/TarushGupta23/TarushGupta23/blob/main/sideImg.gif">
@@ -54,15 +64,10 @@
 
 <br/>
 
-<h1>My Repositories</h2>
-<p></p>
-
-<br/>
-
 <h1>Git Stats</h2>
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=tarushgupta23&show_icons=true&theme=dracula" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarushgupta23&theme=dracula&include_all_commits=true&count_private=true&layout=compact" /><br /> 
+<p align="center" >
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tarushgupta23&show_icons=true&theme=dracula" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarushgupta23&theme=dracula&include_all_commits=true&count_private=true&layout=compact" /><br /> 
   <img src="https://github-profile-trophy.vercel.app/?username=tarushgupta23&theme=dracula">
 </p>
 
