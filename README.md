@@ -23,10 +23,18 @@
 
 <h1>Top Repositories</h2>
 <p align="center">
+    <a href="https://github.com/TarushGupta23/MyPages">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TarushGupta23&repo=MyPages&theme=dracula" />
+    </a>
+    <a href="https://github.com/TarushGupta23/X-change">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TarushGupta23&repo=X-change&theme=dracula" />
+    </a>
+    <a href="https://github.com/TarushGupta23/atlas_game">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TarushGupta23&repo=atlas_game&theme=dracula" />
+    </a>
+    <a href="https://github.com/TarushGupta23/parking-management-system">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TarushGupta23&repo=Parking-management-system&theme=dracula" />
+    </a>
 </p>
 
 <br />
