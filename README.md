@@ -10,7 +10,7 @@
 {
   "🌱 I’m currently working on":  "new Projects",
   "💬 Ask me about": "Java, Android Development, React.js and THREE.js Web Development",
-  "🌐Also Visit": "tarushgupta.com",
+  "🌐 Also Visit": "tarushgupta.com",
   "📫 How to reach me": "tarush23.gupta@gmail.com",
   "⚡️ Fun Fact": "I can turn caffeine into code faster than most people can turn it into a cup of coffee. ☕💻"
 }
