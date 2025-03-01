@@ -1,6 +1,6 @@
 <p align="center"> 
     <img src="https://raw.githubusercontent.com/TarushGupta23/TarushGupta23/main/banner2.gif" alt="tarushgupta23" width="100%"/> 
-    <img src="https://holopin.me/@tarushgupta23" alt="An image of @tarushgupta23's Holopin badges, which is a link to view their full Holopin profile" width="100%"/>
+<!--     <img src="https://holopin.me/@tarushgupta23" alt="An image of @tarushgupta23's Holopin badges, which is a link to view their full Holopin profile" width="100%"/> -->
 </p>
 <hr />
 
