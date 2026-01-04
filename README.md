@@ -72,8 +72,8 @@
 
 <h1>Git Stats</h2>
 <p align="center" >
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tarushgupta23&show_icons=true&theme=dracula" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarushgupta23&theme=dracula&include_all_commits=true&count_private=true&layout=compact" /><br /> 
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=tarushgupta23&show_icons=true&theme=dracula" />
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tarushgupta23&theme=dracula&include_all_commits=true&count_private=true&layout=compact" /><br /> 
   <img src="https://github-profile-trophy.vercel.app/?username=tarushgupta23&theme=dracula">
 </p>
 
